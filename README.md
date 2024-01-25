@@ -1,5 +1,5 @@
 # Second-Task-from-Nexus-Info.1
-Used AutoGluon from Amazon to implement AutoML for solving a disease prediction problem statement as provided by Nexus.
+Used AutoGluon (provided by Amazon) to implement AutoML for solving a disease prediction problem statement as provided by Nexus.
 
 Supported hyperparameter documentation: https://docs.aws.amazon.com/sagemaker/latest/dg/autogluon-tabular-hyperparameters.html
 
